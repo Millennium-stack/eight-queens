@@ -10,6 +10,15 @@ namespace Chess
 
         public bool IsSafe()
         {
+            // no two queens may be on the same row
+            var countZeroes = Board.Count(n => n == 0);
+            var countDistinct = Board.Distinct().Count();
+
+            if (Board.Length != countDistinct + (countZeroes > 1 ? countZeroes - 1 : 0))
+                return false;
+
+            // no two queens may be on the same diagonal
+
             throw new NotImplementedException();
         }
 
