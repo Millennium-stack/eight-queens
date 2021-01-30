@@ -10,7 +10,30 @@ namespace Chess
 
         public bool IsSafe()
         {
-            throw new NotImplementedException();
+            // no two queens may be on the same row
+            var countZeroes = Board.Count(n => n == 0);
+            var countDistinct = Board.Distinct().Count();
+
+            if (Board.Length != countDistinct + (countZeroes > 1 ? countZeroes - 1 : 0))
+                return false;
+
+            // no two queens may be on the same diagonal
+            for (int i = 1; i <= 8; i++)
+                for (int j = i + 1; j <= 8; j++)
+                {
+                    if (Board[i - 1] != 0 && Board[j - 1] != 0)
+                    {
+                        var dX = Math.Abs(i - j);
+                        var dY = Math.Abs(Board[i - 1] - Board[j - 1]);
+
+                        if (dX == dY)
+                        {
+                            return false;
+                        }
+                    }
+                }
+
+            return true;
         }
 
         public static bool PlaceQueens(ChessBoard board = null, int column = 0)
