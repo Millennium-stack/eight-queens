@@ -1,0 +1,9 @@
+C:\codeClinic_c_sharp\eightQueens\Chess\bin\Debug\netcoreapp2.1\Chess.deps.json
+C:\codeClinic_c_sharp\eightQueens\Chess\bin\Debug\netcoreapp2.1\Chess.dll
+C:\codeClinic_c_sharp\eightQueens\Chess\bin\Debug\netcoreapp2.1\Chess.pdb
+C:\codeClinic_c_sharp\eightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.csprojAssemblyReference.cache
+C:\codeClinic_c_sharp\eightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.csproj.CoreCompileInputs.cache
+C:\codeClinic_c_sharp\eightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.AssemblyInfoInputs.cache
+C:\codeClinic_c_sharp\eightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.AssemblyInfo.cs
+C:\codeClinic_c_sharp\eightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.dll
+C:\codeClinic_c_sharp\eightQueens\Chess\obj\Debug\netcoreapp2.1\Chess.pdb

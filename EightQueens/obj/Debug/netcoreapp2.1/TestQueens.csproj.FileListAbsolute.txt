@@ -1,0 +1,17 @@
+C:\codeClinic_c_sharp\eightQueens\EightQueens\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\codeClinic_c_sharp\eightQueens\EightQueens\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\codeClinic_c_sharp\eightQueens\EightQueens\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\codeClinic_c_sharp\eightQueens\EightQueens\bin\Debug\netcoreapp2.1\TestQueens.deps.json
+C:\codeClinic_c_sharp\eightQueens\EightQueens\bin\Debug\netcoreapp2.1\TestQueens.runtimeconfig.json
+C:\codeClinic_c_sharp\eightQueens\EightQueens\bin\Debug\netcoreapp2.1\TestQueens.runtimeconfig.dev.json
+C:\codeClinic_c_sharp\eightQueens\EightQueens\bin\Debug\netcoreapp2.1\TestQueens.dll
+C:\codeClinic_c_sharp\eightQueens\EightQueens\bin\Debug\netcoreapp2.1\TestQueens.pdb
+C:\codeClinic_c_sharp\eightQueens\EightQueens\bin\Debug\netcoreapp2.1\Chess.dll
+C:\codeClinic_c_sharp\eightQueens\EightQueens\bin\Debug\netcoreapp2.1\Chess.pdb
+C:\codeClinic_c_sharp\eightQueens\EightQueens\obj\Debug\netcoreapp2.1\TestQueens.csprojAssemblyReference.cache
+C:\codeClinic_c_sharp\eightQueens\EightQueens\obj\Debug\netcoreapp2.1\TestQueens.csproj.CoreCompileInputs.cache
+C:\codeClinic_c_sharp\eightQueens\EightQueens\obj\Debug\netcoreapp2.1\TestQueens.AssemblyInfoInputs.cache
+C:\codeClinic_c_sharp\eightQueens\EightQueens\obj\Debug\netcoreapp2.1\TestQueens.AssemblyInfo.cs
+C:\codeClinic_c_sharp\eightQueens\EightQueens\obj\Debug\netcoreapp2.1\TestQueens.csproj.CopyComplete
+C:\codeClinic_c_sharp\eightQueens\EightQueens\obj\Debug\netcoreapp2.1\TestQueens.dll
+C:\codeClinic_c_sharp\eightQueens\EightQueens\obj\Debug\netcoreapp2.1\TestQueens.pdb
