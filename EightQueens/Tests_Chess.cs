@@ -38,6 +38,7 @@ namespace EightQueens
             var boards = from solution in ChessBoard.Solutions
                          select new ChessBoard(solution);
 
+            // checks the validity of each known solution
             Assert.IsTrue(boards.All(board => board.IsSafe()));
         }
 
