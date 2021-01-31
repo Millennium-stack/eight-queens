@@ -18,15 +18,15 @@ namespace Chess
                 return false;
 
             // no two queens may be on the same diagonal
-            for (int i = 1; i <= 8; i++)
-                for (int j = i + 1; j <= 8; j++)
+            for (int col = 1; col <= 8; col++)
+                for (int row = col + 1; row <= 8; row++)
                 {
-                    if (Board[i - 1] != 0 && Board[j - 1] != 0)
+                    if (Board[col - 1] != 0 && Board[row - 1] != 0)
                     {
-                        var dX = Math.Abs(i - j);
-                        var dY = Math.Abs(Board[i - 1] - Board[j - 1]);
+                        var dCol = Math.Abs(col - row);
+                        var dRow = Math.Abs(Board[col - 1] - Board[row - 1]);
 
-                        if (dX == dY)
+                        if (dCol == dRow)
                         {
                             return false;
                         }
