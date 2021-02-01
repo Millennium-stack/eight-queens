@@ -1,5 +1,5 @@
 # eight-queens
-This task requires us to start with a standard chess-board and eight queens. The aim is to place the eight queens on board such that no queens can attack each other.
+This is the very famous Eight Queens problem. This requires us to start with a standard chess-board and eight queens. The aim is to place the eight queens on board such that no queens can attack each other.
 
 ![alt text](https://github.com/Millennium-Heap/eight-queens/blob/master/images/eight_queens.jpg?raw=true)
 
